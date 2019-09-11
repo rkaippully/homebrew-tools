@@ -1,8 +1,8 @@
 class Gamgee < Formula
   desc "Gamgee is your sidekick for managing multi-factor authentication tokens."
   homepage "https://github.com/rkaippully/gamgee"
-  url "https://github.com/rkaippully/gamgee/releases/download/v1.1.0/gamgee-v1.1.0-osx.tar.gz"
-  sha256 "06837d39e1762600027e44e256cae3cb0747eb8129e9492297b9f5c81825db62"
+  url "https://github.com/rkaippully/gamgee/releases/download/v1.2.0/gamgee-v1.2.0-osx.tar.gz"
+  sha256 "dd7a1a5f97f2143c1f9f55f43775fc4e88dfa2417ca424b2c12aeccee377e6dc"
 
   bottle :unneeded
 
